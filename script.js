@@ -450,7 +450,7 @@ var data = [{
         "Cataloged": "Y",
         "ObjectID": 79809,
         "Description": "When Warhol first exhibited these thirty-two canvases in 1962, each one simultaneously hung from the wall like a painting and rested on a shelf like groceries in a store. The number of canvases corresponds to the varieties of soup then sold by the Campbell Soup Company. Warhol assigned a different flavor to each painting, referring to a product list supplied by camerapbell's. There is no evidence that Warhol envisioned the canvases in a particular sequence.",
-        "ThumbnailURL": "https://upload.wikimedia.org/wikipedia/en/d/df/Roy_Lichtenstein_Drowning_Girl.jpg",
+        "ThumbnailURL": "https://media.vanityfair.com/photos/55357b0b21478db3485e47fd/master/w_690,c_limit/culture-list-moma-andy-warhol-campbells-soup-01.jpg",
         "Height (cm)": 50.8,
         "Width (cm)": 40.6
     }
@@ -467,7 +467,7 @@ function textAnimate(description) {
 
 
 
-for (var i = 0; i < 11; i++) {
+for (var i = 0; i < 12; i++) {
 
     var circle = document.getElementById("circle")
 
