@@ -450,7 +450,7 @@ var data = [{
         "Cataloged": "Y",
         "ObjectID": 79809,
         "Description": "When Warhol first exhibited these thirty-two canvases in 1962, each one simultaneously hung from the wall like a painting and rested on a shelf like groceries in a store. The number of canvases corresponds to the varieties of soup then sold by the Campbell Soup Company. Warhol assigned a different flavor to each painting, referring to a product list supplied by camerapbell's. There is no evidence that Warhol envisioned the canvases in a particular sequence.",
-        "ThumbnailURL": "http://68.media.tumblr.com/cd9c1e34efc15c3951b7c7fa9d6b1c13/tumblr_o96rx9dpTI1ugg58ao2_1280.jpg",
+        "ThumbnailURL": "https://upload.wikimedia.org/wikipedia/en/d/df/Roy_Lichtenstein_Drowning_Girl.jpg",
         "Height (cm)": 50.8,
         "Width (cm)": 40.6
     }
