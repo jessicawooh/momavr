@@ -467,7 +467,7 @@ function textAnimate(description) {
 
 
 
-for (var i = 0; i < 12; i++) {
+for (var i = 0; i < 11; i++) {
 
     var circle = document.getElementById("circle")
 
